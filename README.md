@@ -1,26 +1,33 @@
 # enc-dec-shell
+#probolte
 You can encode and decode any shell with that command
 Execute that command 
 
-pkg install nodejs
+1)apt update
 
-pkg install nano
+2)apt upgrade
 
-pkg install python2
+3)pkg upgrade
 
-pkg install git
+4)pkg install nodejs
 
-npm install -g bash-obfuscate
+5)pkg install nano
 
-git clone https://github.com/ProbolteOP/enc-dec-shell
+6)pkg install python2
 
-cd
+7)pkg install git
 
-cd enc-dec-shell
+8)npm install -g bash-obfuscate
 
-ls
+9)git clone https://github.com/ProbolteOP/enc-dec-shell
 
-python2 bash.py
+10)cd
+
+11)cd enc-dec-shell
+
+12)ls
+
+13)python2 bash.py
 
 
 Store shell file in data/user/0/com.termux/files/home/enc-dec-shell
